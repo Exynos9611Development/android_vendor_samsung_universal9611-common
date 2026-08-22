@@ -65,24 +65,11 @@ PRODUCT_PACKAGES += \
     libfloatingfeature \
     libsecnativefeature \
     libsecril-client \
-    audio.primary.exynos9611 \
-    libSamsungPostProcessConvertor \
-    lib_SamsungRec_07010 \
-    lib_SoundAlive_SRC384_ver320 \
-    lib_soundaliveresampler \
-    libalsautils_sec \
-    libaudio-ril \
-    libaudio_soundtrigger \
-    libaudioproxy \
-    libaudioroute_vendor \
     libprofileparamstorage \
-    librecordalive \
     libsamsungDiamondVoice \
     libsecaudiocoreutils \
-    libsecaudioinfo \
     libspatializerparamstorage \
     libwvhidl \
-    libaudioeffectoffload \
     android.hardware.gnss@2.1-impl \
     gatekeeper.exynos9611 \
     vendor.samsung.hardware.gnss@2.0-impl \
